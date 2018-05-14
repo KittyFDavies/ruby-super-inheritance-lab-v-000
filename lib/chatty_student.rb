@@ -12,6 +12,7 @@ t, you don't want any spoilers? Okay well let me just tell you who died..."
       while counter < 9
         puts "Pick me!"
         counter += 1
+      end
     end
 
 end

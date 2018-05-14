@@ -8,7 +8,10 @@ t, you don't want any spoilers? Okay well let me just tell you who died..."
 
     def raise_hand
       super
-      
+      counter = 0
+      while counter < 9
+        puts "Pick me!"
+        counter += 1
     end
 
 end
